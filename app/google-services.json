@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128071855930",
+    "project_id": "pinkcloudnote",
+    "storage_bucket": "pinkcloudnote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128071855930:android:131f3124819026add4ea03",
+        "android_client_info": {
+          "package_name": "com.ebaa.pinkcloudnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloAhn2RFBRsbU2MxS_gptcAhQuhR1K8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
